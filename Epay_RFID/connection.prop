@@ -1,0 +1,6 @@
+Dname=com.microsoft.sqlserver.jdbc.SQLServerDriver
+URL=jdbc:sqlserver://127.0.0.1:1433;Instance=SQLEXPRESS;databaseName=PTLS;user=sa;password=ptl@1234 
+URL_DB=jdbc:sqlserver://CK-PCS-0119-LS//PTLS
+Uname=sa 
+password=ptl@1234
+query=SELECT * FROM tbl_RFBinIN

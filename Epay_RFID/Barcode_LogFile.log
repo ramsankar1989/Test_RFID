@@ -1,0 +1,2 @@
+Oct 11, 2022 8:49:52 AM epay_rfid.Epay_RFID main
+INFO: ERROR:	11/10/2022 08:49:30	java.net.ConnectException: Connection timed out: connect
